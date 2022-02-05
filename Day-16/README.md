@@ -18,4 +18,4 @@ When a Function in attached to a class it is called a method.
 See the Quiz Project for some understanding of using self made classes and methods inside.
 
 ## Using Online API
-[A Link to website] (https://opentdb.com/)
+https://opentdb.com/
